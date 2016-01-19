@@ -1,0 +1,1 @@
+From command prompt; a merge to master 
