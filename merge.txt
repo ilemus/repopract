@@ -1,2 +1,4 @@
+An insert.
 From command prompt; a merge to master 
 From linux machine; a merge to master
+An append.
