@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+This is the file to be created
+Text later added
+=======
+this is what is being echoed 
+>>>>>>> 96ad3ea9297c1ec34b66b68598c59af47c9196e8
